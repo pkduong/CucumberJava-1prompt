@@ -37,6 +37,8 @@ mvn test -Dheadless=true
 
 Có thêm 3 yếu tố: Tích hợp Allure report, Data-driven testing (login với nhiều user) và tích hợp CI/CD GitHub Actions
 
+[pkduong/CucumberJava-1prompt-v2](https://github.com/pkduong/CucumberJava-1prompt-v2)
+
 ```
 Hãy setup hoàn chỉnh project Java Selenium + Cucumber để test đăng nhập tại https://www.saucedemo.com, theo Maven và Page Object Model chuẩn.
 
